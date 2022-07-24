@@ -7,7 +7,7 @@ You can see the **Controls** and **Rules** below
 ## Demo 
 
 
-**Play** Click [Here]()
+**Play** Click [Here](https://vimal-sharma7.github.io/2D-Shooting-Game/)
 
 
 
